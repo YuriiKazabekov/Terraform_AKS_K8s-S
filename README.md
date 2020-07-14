@@ -1,8 +1,8 @@
  <h1 align="center"> terraform-aks-k8s
  </h1>
  
-GL DevOps Pro Camp
-Terraform code that deploys Azure Kubernetes Service
+#### GL DevOps Pro Camp
+How to use this Terraform code to deploy Azure Kubernetes Service
 
 ## Set up Azure storage to store Terraform state
 Terraform tracks state locally via the terraform.tfstate file.
